@@ -1,5 +1,5 @@
-// NAME - Shivendra Dwivedi
-//PRN - 23070123122
+// NAME - Garv Nandwana
+//PRN - 23070123167
 // EXPERIMENT - 20(B) 
 
 #include<iostream>
